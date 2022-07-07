@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UAS</string>
+    <string name="data_covid19">Data Covid 19</string>
+    <string name="search">Search</string>
+    <string name="nama_prov">Input Nama Provinsi</string>
+    <string name="sembuh">Sembuh</string>
+    <string name="meninggal">Meninggal</string>
+    <string name="kasus_total">Kasus Total</string>
+    <string name="last_date">Last Date</string>
+    <string name="titikdua">:</string>
+</resources>
